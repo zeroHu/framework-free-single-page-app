@@ -1,4 +1,14 @@
-# 开发无框架单页面应用 -- 老码农的祖传秘方
+# 原文链接：http://web.jobbole.com/81990/
+
+原文github： framework-free-single-page-app
+
+原文web网址：原文效果网址
+
+tips:只是把大神的代码copy下来 跑了跑 看看逻辑啥的，瞻仰一下，放在github是为了记录
+
+
+
+## 开发无框架单页面应用 -- 老码农的祖传秘方
 #
 
 ## 什么是单页面应用（SPA）？
